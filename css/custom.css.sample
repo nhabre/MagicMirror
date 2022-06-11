@@ -28,4 +28,11 @@
   --gap-body-left: 60px;
   
   --gap-modules: 30px;
+
+  body {
+    margin: 0px;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
 }
